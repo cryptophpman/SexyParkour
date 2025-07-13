@@ -1,7 +1,6 @@
 # 🚀 SexyParkour
 
 ![Parkour](https://i.ytimg.com/vi/ydJ43DMw2Qw/maxresdefault.jpg)
-*(Replace with actual gameplay GIF/screenshot)*  
 
 ### The Most Advanced Parkour Automation for Minecraft Servers  
 Smooth animations • Smart pathfinding • Zero lag • Fully configurable  
