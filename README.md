@@ -1,6 +1,6 @@
 # 🚀 SexyParkour
 
-![Banner](https://via.placeholder.com/1200x400.png?text=ULTIMATE+AUTO-PARKOUR+PLUGIN)  
+![Banner]([https://via.placeholder.com/1200x400.png?text=ULTIMATE+AUTO-PARKOUR+PLUGIN](https://image.winudf.com/v2/image/Y29tLmJhbmR1bGFuZGV2Lm1vcmVsZXZlbHNvZnBhcmtvdXJfc2NyZWVuXzBfMTUwMjkwODQwMl8wNzI/screen-0.jpg?fakeurl=1&type=.jpg))  
 *(Replace with actual gameplay GIF/screenshot)*  
 
 ### The Most Advanced Parkour Automation for Minecraft Servers  
