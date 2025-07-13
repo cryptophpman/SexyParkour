@@ -1,6 +1,6 @@
 # 🚀 SexyParkour
 
-![Banner]([https://image.winudf.com/v2/image/Y29tLmJhbmR1bGFuZGV2Lm1vcmVsZXZlbHNvZnBhcmtvdXJfc2NyZWVuXzBfMTUwMjkwODQwMl8wNzI/screen-0.jpg?fakeurl=1&type=.jpg]))  
+[![Banner]([https://image.winudf.com/v2/image/Y29tLmJhbmR1bGFuZGV2Lm1vcmVsZXZlbHNvZnBhcmtvdXJfc2NyZWVuXzBfMTUwMjkwODQwMl8wNzI/screen-0.jpg?fakeurl=1&type=.jpg]))  ](https://i.ytimg.com/vi/ydJ43DMw2Qw/maxresdefault.jpg)
 *(Replace with actual gameplay GIF/screenshot)*  
 
 ### The Most Advanced Parkour Automation for Minecraft Servers  
