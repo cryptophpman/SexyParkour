@@ -34,7 +34,7 @@ Smooth animations • Smart pathfinding • Zero lag • Fully configurable
 ---
 
 ## 💻 Installation  
-1. Download latest `.phar` from [Releases](https://github.com/cryptophpman/AutoParkour/releases)
+1. Download latest `.phar` from [Releases](https://github.com/cryptophpman/SexyParkour/releases)
 2. Drop into your `plugins` folder
 3. Restart server
 
